@@ -1,0 +1,5 @@
+export const SHOW_ALL_CARDS = "SHOW_ALL_CARDS"
+export const OPEN_A_CARD = "OPEN_A_CARD"
+export const CLOSE_A_CARD = "CLOSE_A_CARD"
+export const CLOSE_OPEN_CARDS = "CLOSE_OPEN_CARDS"
+export const SHOW_CARD = "SHOW_CARD"
